@@ -6,8 +6,6 @@ from kivy.uix.gridlayout import GridLayout
 from kivy.uix.floatlayout import FloatLayout
 from kivy.uix.anchorlayout import AnchorLayout
 from kivy.graphics import Color, Line
-from kivy.core.window import Window
-Window.size = (450,800)
 
 
 class Main_app(App):
